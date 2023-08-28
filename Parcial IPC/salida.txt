@@ -1,0 +1,8 @@
+Nombre: Elvis
+Materia: IPC
+Nota: 85.00
+
+Nombre: Emely
+Materia: Matematicas
+Nota: 90.00
+
